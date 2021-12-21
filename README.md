@@ -1,5 +1,5 @@
-# contador
-Projeto_1 Introdução ao JavaScript Bootcamp Inter - DIO
+# Contador
+## Projeto_1 Introdução ao JavaScript Bootcamp Inter - DIO
 
 <p align="center">
   <img src="assets/img/tela_1.png" width="350" height="350" title="inicio">
